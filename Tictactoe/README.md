@@ -1,3 +1,4 @@
+// Copyright (C) 2024 An0n9m. All rights reserved.
 # Tic-Tac-Toe Game
 
 A simple command-line Tic-Tac-Toe game written in C++. This game allows two players to play Tic-Tac-Toe by entering the row, column, and symbol (either 'x' or '0').
