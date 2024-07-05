@@ -1,3 +1,4 @@
+// Copyright (C) 2024 An0n9m. All rights reserved.
 Great Terminal Calculator
 This calculator is designed for terminal usage, offering an easy and efficient way to perform calculations directly from the command line.
 
