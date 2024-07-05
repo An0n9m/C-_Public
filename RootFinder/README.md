@@ -1,3 +1,4 @@
+// Copyright (C) 2024 An0n9m. All rights reserved.
 # RootFinder
 
 A C++ program to find the roots of a function using different numerical methods: Bisection, False Position, and Secant. The program allows you to test and compare the efficiency of these methods.
