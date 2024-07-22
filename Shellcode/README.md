@@ -25,4 +25,4 @@ To compile the program, use the following command:
 ```sh
 g++ -o ShellCodeConverter ShellCodeConverter.cpp
 
-P.S is quite useful for CTF challenges
+P.S. Quite useful for CTF challenges
